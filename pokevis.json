@@ -1,0 +1,137 @@
+{
+    "name": "Pokevis",
+    "desc": "Highly inflectional synthetic language",
+    "units": [
+        {
+            "title": "He is a Normal Type",
+            "description": [
+                {
+                    "type": "text",
+                    "text": "In the first unit, you will learn to say that someone is a Normal Type."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        ["", "Present (-les)", "Past (-loros)"],
+                        ["To Be", "eles", "eloros"]
+                    ]
+                },
+                {
+                    "type": "text",
+                    "text": "This is the conjugation of 'is' or 'to be' for a Normal Type subject. The subject may be left out if it is understood who is being spoken about."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        ["", "Masculine", "Feminine"],
+                        ["Subject Pronoun", "los", "la"]
+                    ]
+                },
+                {
+                    "type": "text",
+                    "text": "These are the Normal Type pronouns in the subject."
+                },
+                {
+                    "type": "table",
+                    "rows": [
+                        ["", "Masculine", "Feminine"],
+                        ["Subject Noun Ending", "-eones", "-evis"]
+                    ]
+                },
+                {
+                    "type": "text",
+                    "text": "This is how Normal Type nouns end in the subject position."
+                }
+            ],
+            "lessons": [
+                [
+                    {
+                        "question": "Translate the following to English.",
+                        "content": "La eles eveones.",
+                        "answers": [
+                            "she is eevee",
+                            "she is an eevee",
+                            "she is a eevee",
+                            "she is the eevee"
+                        ]
+                    },
+                    {
+                        "question": "Translate the following to English.",
+                        "content": "Los eles lumanevis.",
+                        "answers": [
+                            "he is human",
+                            "he is a human",
+                            "he is the human"
+                        ]
+                    },
+                    {
+                        "question": "Translate the following to Pokevis.",
+                        "content": "He is an eevee.",
+                        "answers": [
+                            "los eles evevis",
+                            "eles evevis"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "question": "Translate the following to English.",
+                        "content": "Eles pideones.",
+                        "answers": [
+                            "he is a pidgey",
+                            "he is pidgey",
+                            "he is the pidgey",
+                            "she is a pidgey",
+                            "she is pidgey",
+                            "she is the pidgey"
+                        ]
+                    },
+                    {
+                        "question": "Translate the following to English.",
+                        "content": "Eles evevis.",
+                        "answers": [
+                            "he is an eevee",
+                            "he is eevee",
+                            "he is the eevee",
+                            "she is a eevee",
+                            "she is eevee",
+                            "she is the eevee"
+                        ]
+                    },
+                    {
+                        "question": "Translate the following to Pokevis.",
+                        "content": "She is an eevee",
+                        "answers": [
+                            "eles evevis",
+                            "la eles evevis"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "question":"Translate the following to English.",
+                        "content": "Los eloros Arkeones.",
+                        "answers": [
+                            "he was arceus"
+                        ]
+                    },
+                    {
+                        "question":"Translate the following to English.",
+                        "content": "Eloros Muevis.",
+                        "answers": [
+                            "he was mew",
+                            "she was mew"
+                        ]
+                    }
+                ]
+            ],
+            "quiz": [
+                {
+                    "question": "",
+                    "content": "",
+                    "answers": []
+                }
+            ]
+        }
+    ]
+}
